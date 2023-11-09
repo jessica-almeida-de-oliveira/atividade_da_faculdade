@@ -1,0 +1,62 @@
+Python é uma linguagem de propósito geral, ou seja, pode ser utilizada para as mais diversas aplicações. 
+
+É gratuita Open Source e foi projetada tendo
+
+como um dos principais objetivos ser de fácil leitura e utilização.
+
+Como Python é uma das linguagens mais ativas em termos de comunidade, 
+a cada dia novas bibliotecas são construídas e aprimoradas. Existem funções e módulos prontos para 
+se executar de tudo, desde manipulações em imagens até algoritmos de inteligência artificial.
+
+Isso é muito conveniente porque um programador iniciante acaba conseguindo obter recursos e resultados avançados 
+apenas importando e utilizando módulos prontos, sem precisar criar tudo do zero.
+Python é tão flexível e modular que permite a utilização de diferentes recursos em um mesmo bloco de código.
+Por exemplo, o framework TensorFlow (utilizado para computação numérica e inteligência artificial) 
+
+pode rodar códigos utilizando CPU, GPU, ou ambas ao mesmo tempo, tudo 
+um mesmo ambiente com código Python que pode estar importando cumulativamente outras bibliotecas e pacotes, sem conflitos
+
+Um framework Python é uma coleção de códigos prontos que operam funcionalidades específicas para quem precisa. 
+É como uma peça pronta que é comprada para ser inserida em um projeto de automóvel e cumprir 
+uma função que cumpriria em qualquer outro modelo.
+É um conjunto de pacotes e módulos, mais completo do que uma simples biblioteca, 
+por exemplo. Requer uma produção orientada a eles, de acordo com a finalidade principal.
+
+A linguagem Python permite que códigos sejam endereçados para os mais variados ambientes, 
+como aplicações mobile, desenvolvimento web, desktop, games, etc.
+Python serve para:
+
+    Automatizar tarefas repetitivas, criando códigos que interagem com seu sistema operacional;
+    Varrer a internet (web scraping) navegando por sites, coletando, organizando e salvando informações;
+    Monitorar e minerar redes sociais, conectando-se diretamente via APIs que facilitam a extração de dados;
+    Construir um site ou uma aplicação para a web;
+    Construir um aplicativo mobile;
+    Criar aplicações em blockchain (diversos projetos descentralizados já possuem suporte para Python);
+    Criar jogos;
+    Manipular grandes conjuntos de textos com as mais avançadas tecnologias (processamento de linguagem natural);
+    Criar gráficos para BI (Business Intelligence);
+    Criar ferramentas de Analytics para tomadas de decisão;
+    Manipular dados de forma avançada, com todos os recursos que um cientista de dados poderia necessitar;
+    Rodar algoritmos de machine learning, tendo acesso a tudo que há de mais avançado na área;
+    Criar aplicações de inteligência artificial, utilizando deep learning, reinforcement learning, entre outros;
+    Trabalhar com Big Data;
+    Realizar trading automatizado em bolsa de valores;
+    Fazer pesquisa científica e computação numérica, tendo bibliotecas alternativas ao software Matlab;
+    Utilizar funções e módulos prontos para engenharia, geologia, climatologia, entre outras áreas
+    Programar microcontroladores e robôs.
+Empresas que utilizam Python
+
+Como Python é tão versátil, é evidente que grandes empresas e corporações já utilizam a linguagem em diversas aplicações. Alguns exemplos são:
+
+    Instagram (utiliza Django como backend, um framework Pyrhon para a web)
+    Google (grande parte do algoritmo de busca é escrito em Python)
+    Spotify (o aplicativo é construído em Python)
+    Netflix (utiliza muitas bibliotecas Python)
+    Uber (boa parte do aplicativo é feita com Python)
+    Dropobox (contratou o criador da linguagem Python, Guido van Rossum)
+    Pinterest (utiliza Python e Django)
+    Reddit (utiliza bibliotecas Python)
+
+
+
+
